@@ -318,3 +318,7 @@ address {
     align-items: center;
     justify-content: left;
 }
+
+.link-cadastro{
+    color: #a70000;
+}

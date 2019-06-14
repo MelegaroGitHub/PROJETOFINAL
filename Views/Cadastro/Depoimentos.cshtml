@@ -1,4 +1,3 @@
-
 <header>
     @{
         Html.RenderPartial("_HeaderNavBar");
@@ -7,6 +6,12 @@
 
 <main>
     <form method="POST" action="Depoimentos/RegistrarDepoimentos">
-        
+        <div class="Depoimentos">
+            <label for="Depoimentos">Nos de sua opinião!</label>
+            <br />
+            <input id="Depoimentos" type="text">
+
+            <input type="submit" value="Enviar" />
+        </div>
     </form>
 </main>

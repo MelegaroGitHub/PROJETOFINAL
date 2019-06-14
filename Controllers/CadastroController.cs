@@ -3,11 +3,14 @@ using Hamburgueria_Tarde.Models;
 using Hamburgueria_Tarde.Repositorios;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PROJETOFINAL.Models;
+using PROJETOFINAL.Repositorios;
 
 namespace Hamburgueria_Tarde.Controllers
 {
     public class CadastroController : Controller
     {
+        private RegistroRepositorio registroRepositorio = new RegistroRepositorio();
         private ClienteRepository clienteRepository = new ClienteRepository();
         public IActionResult Index()
         {
@@ -31,11 +34,6 @@ namespace Hamburgueria_Tarde.Controllers
             ViewData["Action"] = "Cadastro";
             return View("Sucesso");
 
-        }
-
-        public IActionResult Depoimentos(){
-
-            return View();
         }
     }
 }
