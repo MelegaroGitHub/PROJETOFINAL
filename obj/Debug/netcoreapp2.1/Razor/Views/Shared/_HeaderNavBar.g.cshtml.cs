@@ -67,7 +67,7 @@ using Hamburgueria_Tarde.Models;
             WriteLiteral("<nav>\r\n    <div class=\"section-container\">\r\n        <ul>\r\n            <li>");
             EndContext();
             BeginContext(124, 72, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "69bf60035bb64a69a6de8ebae44e798e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c00e65f45d3a4d62ade7ef49a8f3d34b", async() => {
                 BeginContext(183, 9, true);
                 WriteLiteral("Principal");
                 EndContext();
@@ -145,7 +145,7 @@ WriteAttributeValue("", 473, Url.Action("Index", "Home"), 473, 28, false);
             WriteLiteral("                <li>");
             EndContext();
             BeginContext(605, 79, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cb30a4848c1b42e582325c5cf72b81b7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8586ca67029d42fca0a52c52c5569171", async() => {
                 BeginContext(666, 14, true);
                 WriteLiteral("Login/Cadastro");
                 EndContext();
@@ -178,7 +178,7 @@ WriteAttributeValue("", 473, Url.Action("Index", "Home"), 473, 28, false);
             WriteLiteral("                <li>");
             EndContext();
             BeginContext(733, 73, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fb4010744a3b4281a40b89dc4bf13152", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6794fce3146544f7870e240e5ca9a61e", async() => {
                 BeginContext(796, 6, true);
                 WriteLiteral("Logout");
                 EndContext();

@@ -14,10 +14,10 @@ C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Hamburgueria_Tarde.TagHelpers.input.cache
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Hamburgueria_Tarde.TagHelpers.output.cache
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Hamburgueria_Tarde.RazorCoreGenerate.cache
+C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Historico.g.cshtml.cs
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Login.g.cshtml.cs
-C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Home\BuscarDepoimentos.g.cshtml.cs
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Pedido\Index.g.cshtml.cs
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
@@ -33,5 +33,4 @@ C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Hamburgueria_Tarde.dll
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Hamburgueria_Tarde.pdb
 C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Hamburgueria_Tarde.csproj.CopyComplete
-C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
-C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Depoimentos.g.cshtml.cs
+C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Depoimentos.g.cshtml.cs

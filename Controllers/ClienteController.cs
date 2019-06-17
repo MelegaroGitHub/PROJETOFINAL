@@ -33,7 +33,7 @@ namespace Hamburgueria_Tarde.Controllers
 
             }else{
 
-            return RedirectToAction("Depoimentos", "Cadastro");
+            return RedirectToAction("Indexq", "Home");
             }
 
         }

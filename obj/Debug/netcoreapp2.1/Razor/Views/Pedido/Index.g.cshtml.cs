@@ -78,7 +78,7 @@ using Hamburgueria_Tarde.Models;
             WriteLiteral("</h2>\r\n    ");
             EndContext();
             BeginContext(203, 1435, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a2eeed17e3114fd590703437a2f8e6b1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "46849caf7cef469e977054951f77ec04", async() => {
                 BeginContext(255, 171, true);
                 WriteLiteral("\r\n        <div>\r\n            <label for=\"nome\">Nome Completo</label>\r\n            <br />\r\n            <input id=\"nome\" type=\"text\" maxlength=\"20\" minlength=\"3\" name=\"nome\"");
                 EndContext();
@@ -123,7 +123,7 @@ WriteAttributeValue("", 1065, Model.Cliente.Email, 1065, 20, false);
                 WriteLiteral("/>\r\n        </div>\r\n\r\n        <div class=\"double-field\">\r\n            <div>\r\n                <label for=\"planos\">Planos</label>\r\n                <select id=\"planos\" name=\"planos\">\r\n                    ");
                 EndContext();
                 BeginContext(1287, 53, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3c25c10e15ff4be88a68322255dbcb49", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e3860797b44048e58225cacaf2b1d454", async() => {
                     BeginContext(1322, 9, true);
                     WriteLiteral("Selecione");
                     EndContext();
@@ -160,7 +160,7 @@ WriteAttributeValue("", 1065, Model.Cliente.Email, 1065, 20, false);
                 WriteLiteral("                        ");
                 EndContext();
                 BeginContext(1442, 38, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd89dbb5db0a48b0b32c658e7b4407f7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "57ed72d12c1e40c2b4402d1ba95acc85", async() => {
                     BeginContext(1465, 6, false);
 #line 42 "C:\Users\47218236812\Documents\ProjetoFinal\PROJETOFINAL\Views\Pedido\Index.cshtml"
                                          Write(h.Nome);

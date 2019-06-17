@@ -75,7 +75,7 @@ using Hamburgueria_Tarde.Models;
             WriteLiteral("</h2>\r\n    ");
             EndContext();
             BeginContext(134, 1443, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8361c702c2bb4c11a896da54f920ef65", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "014987b3ac864847b0fed20e52134b35", async() => {
                 BeginContext(200, 1370, true);
                 WriteLiteral(@"
         <div>
