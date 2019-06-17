@@ -4,7 +4,7 @@ namespace PROJETOFINAL.Controllers
 {
     public class DepoimentoController : Controller
     {
-        public IActionResult Depoimentos(){
+        public IActionResult Index(){
             return View();
         }
     }

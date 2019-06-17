@@ -32,8 +32,9 @@ namespace Hamburgueria_Tarde.Controllers
                  return RedirectToAction("Index", "Admin");
 
             }else{
-
-            return RedirectToAction("Indexq", "Home");
+                HttpContext.Session.SetString(SESSION_EMAIL, usuario);
+                HttpContext.Session.SetString(SESSION_CLIENTE, cliente.Nome);
+                 return RedirectToAction("Index", "Depoimento");
             }
 
         }
